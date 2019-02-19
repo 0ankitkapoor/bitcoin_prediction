@@ -5,4 +5,4 @@ Python3
 sh setup.sh
 
 ### Running Project
-python3 ankit.py
+python3 main.py
